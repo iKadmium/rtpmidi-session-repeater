@@ -1,0 +1,12 @@
+{
+    "port": 5004,
+    "sessionName": "ORANGE_PI",
+    "peers": [
+        {
+            "host": "localhost"
+        },
+        {
+            "host": "example.com"
+        }
+    ]
+}
